@@ -10,8 +10,8 @@ public class GC_Lab1_Part1 {
 	// Define and initialize variables.
 	int userNumOne	 = 0;
 	int userNumTwo	 = 0;
-	int modOne	 = 0;
-	int modTwo	 = 0;
+	int modOne	     = 0;
+	int modTwo	     = 0;
 	int numOneLength = 0;
 	int numTwoLength = 0;
 	int sumMods      = 0;
@@ -78,175 +78,11 @@ public class GC_Lab1_Part1 {
 		  }
 		userNumOne = userNumOne / 10;
 		userNumTwo = userNumTwo / 10;
-		System.out.println();
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+		System.out.println();		
 	}
 
 	System.out.println("Is it true that the corresponding digits of these two numbers all add up to the same number? "
 					+ digitsAddToSameNum);
 	System.out.println();
-	}   //CHANGE MADE: edited spacing.
+	}
 }
